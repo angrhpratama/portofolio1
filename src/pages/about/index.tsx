@@ -24,11 +24,6 @@ function About() {
                             Now i am a student at Purwadhika digital technology school where
                             i can deep dive to learn fullstack web development.
                         </Text>
-
-                        <Heading size='15' mt='5'>
-                            Experience:
-                            -
-                        </Heading>
                     </CardBody>
                 </Card>
             </Center>
