@@ -1,4 +1,4 @@
-import { Box, Center, Image } from "@chakra-ui/react"
+import { Center, Image } from "@chakra-ui/react"
 
 function Home() {
     return (
